@@ -1,0 +1,11 @@
+LoanID,CustomerID,LoanAmount,InterestRate,Term,Status,Default,Name,Age,Gender,Income,CreditScore,EmploymentStatus
+101,1,200000,7.5,36,Approved,No,Amit,28,M,50000,720,Salaried
+102,2,300000,8.0,48,Approved,Yes,Priya,34,F,75000,680,Self-Employed
+103,3,150000,9.0,24,Approved,No,Rohan,40,M,60000,650,Salaried
+104,4,250000,7.0,36,Approved,No,Sneha,29,F,80000,700,Salaried
+105,5,400000,6.5,60,Approved,Yes,Vikram,45,M,120000,750,Business
+106,6,180000,8.5,36,Approved,No,Anjali,31,F,55000,670,Salaried
+107,7,220000,9.2,48,Approved,Yes,Rahul,38,M,65000,640,Self-Employed
+108,8,160000,7.8,24,Approved,No,Meera,26,F,70000,710,Salaried
+109,9,350000,6.8,60,Approved,Yes,Karan,50,M,90000,690,Business
+110,10,210000,8.1,36,Approved,No,Neha,36,F,72000,660,Salaried
