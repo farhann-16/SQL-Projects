@@ -1,0 +1,21 @@
+OrderID,CustomerID,ProductID,OrderDate,Quantity,Price,Name,Location,Gender,Age,Category,Subcategory,Brand,ShippingDate,ShippingMode,DeliveryTime,Revenue,Month,AgeGroup
+1001,4,102,2023-01-01,2,151,Customer 4,Texas,Male,34,Electronics,Sub2,Brand2,2023-01-07,Same Day,8,302,2023-01,26-35
+1002,14,101,2023-01-16,4,28,Customer 14,Florida,Male,41,Electronics,Sub1,Brand1,2023-01-17,Express,4,112,2023-01,36-50
+1003,12,110,2023-01-31,2,28,Customer 12,New York,Male,55,Clothing,Sub10,Brand10,2023-02-07,Standard,9,56,2023-01,51-60
+1004,6,108,2023-02-15,3,116,Customer 6,New York,Male,27,Electronics,Sub8,Brand8,2023-02-22,Same Day,5,348,2023-02,26-35
+1005,4,103,2023-03-02,3,98,Customer 4,Texas,Male,34,Books,Sub3,Brand3,2023-03-04,Express,2,294,2023-03,26-35
+1006,5,102,2023-03-17,2,57,Customer 5,New York,Female,58,Electronics,Sub2,Brand2,2023-03-18,Express,8,114,2023-03,51-60
+1007,1,104,2023-04-01,3,158,Customer 1,Illinois,Male,59,Home,Sub4,Brand4,2023-04-03,Same Day,8,474,2023-04,51-60
+1008,13,108,2023-04-16,4,184,Customer 13,California,Male,56,Electronics,Sub8,Brand8,2023-04-17,Same Day,5,736,2023-04,51-60
+1009,2,103,2023-05-01,3,165,Customer 2,California,Male,54,Books,Sub3,Brand3,2023-05-06,Standard,9,495,2023-05,51-60
+1010,7,106,2023-05-16,2,199,Customer 7,New York,Male,28,Clothing,Sub6,Brand6,2023-05-25,Same Day,7,398,2023-05,26-35
+1011,6,105,2023-05-31,1,122,Customer 6,New York,Male,27,Books,Sub5,Brand5,2023-06-06,Same Day,8,122,2023-05,26-35
+1012,13,104,2023-06-15,3,124,Customer 13,California,Male,56,Home,Sub4,Brand4,2023-06-22,Standard,2,372,2023-06,51-60
+1013,9,105,2023-06-30,3,60,Customer 9,Florida,Male,48,Books,Sub5,Brand5,2023-07-02,Express,2,180,2023-06,36-50
+1014,2,110,2023-07-15,1,62,Customer 2,California,Male,54,Clothing,Sub10,Brand10,2023-07-24,Standard,8,62,2023-07,51-60
+1015,9,105,2023-07-30,1,102,Customer 9,Florida,Male,48,Books,Sub5,Brand5,2023-08-08,Same Day,1,102,2023-07,36-50
+1016,14,105,2023-08-14,3,193,Customer 14,Florida,Male,41,Books,Sub5,Brand5,2023-08-17,Standard,8,579,2023-08,36-50
+1017,12,107,2023-08-29,2,177,Customer 12,New York,Male,55,Clothing,Sub7,Brand7,2023-08-30,Express,5,354,2023-08,51-60
+1018,15,107,2023-09-13,4,22,Customer 15,Texas,Female,30,Clothing,Sub7,Brand7,2023-09-22,Express,5,88,2023-09,26-35
+1019,7,104,2023-09-28,3,162,Customer 7,New York,Male,28,Home,Sub4,Brand4,2023-10-01,Standard,6,486,2023-09,26-35
+1020,7,106,2023-10-13,1,91,Customer 7,New York,Male,28,Clothing,Sub6,Brand6,2023-10-14,Standard,1,91,2023-10,26-35
